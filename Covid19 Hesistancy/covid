@@ -413,6 +413,7 @@ nb_df = pd.DataFrame(data=[f1_nb,acc_nb, recall_nb,precision_nb],
              columns=['Naive Bayed (NB) Score'],
              index=["F1","Accuracy", "Recall", "Precision"])
 
+
 import matplotlib.pyplot as plt
 import matplotlib
 import seaborn as sns
