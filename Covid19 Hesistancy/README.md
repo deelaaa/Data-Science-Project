@@ -1,6 +1,7 @@
 # Vaccines’ Brands Affect on Vaccination Hesitancy Rate Among Students in Malaysia
 
 Project status: Completed
+
 _This is my Data Science group project where we have to apply data science processes starting from data collection until model development. In the end, we communicate our findings to the whole class and provide a prescriptive analysis of what the government should do to counter the issue that arises._
 
 ## Overview
