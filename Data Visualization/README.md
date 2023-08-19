@@ -36,8 +36,24 @@ What are the association between individual background status such as gender, ed
 
 *Gender contribute the most in programming community*
 ![image](https://github.com/deelaaa/Data-Science-Project/assets/129021858/cc28360a-6bf4-4ee2-95b6-d08c00968f66)
+
+*Education level to join programming community*
 ![image](https://github.com/deelaaa/Data-Science-Project/assets/129021858/b8feaf5f-7cf1-454c-8bac-83799e75d454)
+- All of the developers have educational background
+- Majority of the developers pursue their education up untill bachelor's degree where the total number of them are 5625
+- Only 150 of the developers hold profesional degree where it is the least number of educational level took by developers.
+
+*Field of study*
 ![image](https://github.com/deelaaa/Data-Science-Project/assets/129021858/1d99bcc1-6b3d-4a15-ba51-640b983f39a0)
+- As expected most of the developers studied in computer science field.
+- However there are also developers came from different area of studies which unrelated to programming such as health science, fine arts, business discipline and etc.
+- This shown that anyone can pursue their career as a developer as long as he/she has the skill needed to be a developer such as programming and solving-problem skill.
+- Logically thinking, those skills can be learned online and there are many materials of IT areas available across the Internet.
+
+*Employment*
 ![image](https://github.com/deelaaa/Data-Science-Project/assets/129021858/eb108b03-40b9-4ab5-8e06-1fcbbdefb2f2)
-## Discussion
+- The pie chart shows that allof the developers are employed either full-time or part-time
+- Majority of them are employed full-time compared to part-time where 97% of them are successfully employed full-time meanwhile only 3% of them are employed part-time respectively.
+- This shown that pursue career in programming in in demand as it easily offered you to get employed regardless of your individual status or background such as your ethnicity, filed of study and many more as long as you have the skills needed.
+
 
