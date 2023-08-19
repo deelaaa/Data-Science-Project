@@ -5,4 +5,5 @@ Steps implemented:
 
    Basically, I cleaned the text by removing unnecessary symbols, emojis, and standardized the text to be lowercase. I also check for any missing or null values in the data,
 4. Data sampling
-   
+   ![image](https://github.com/deelaaa/Data-Science-Project/assets/129021858/66cfb053-56fa-4c75-beac-d058e40b034a) Since the data is imbalanced, I decided to downsample the majority class to be balanced with the minority class.
+
