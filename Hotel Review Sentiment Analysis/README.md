@@ -15,7 +15,10 @@ Steps implemented:
    ![image](https://github.com/deelaaa/Data-Science-Project/assets/129021858/b676a8cc-2e2d-4a03-a0ed-82a39807242e)![image](https://github.com/deelaaa/Data-Science-Project/assets/129021858/37f3a8d8-637c-47a8-9023-0abb067ef74a)
    ![image](https://github.com/deelaaa/Data-Science-Project/assets/129021858/d3d0394f-dd2a-4595-901b-87482cac29dd)
 7. Logistic regression training and prediction
+   
    Result:  Accuracy :  0.872306
+   
             Precision :  0.872307
+   
             Recall :  0.872306
 
