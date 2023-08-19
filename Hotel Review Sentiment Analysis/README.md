@@ -1,6 +1,7 @@
-Goal: To classify the review either positive, negative or neutral
+## Goal
+To classify the review either positive, negative or neutral
 
-Steps implemented:
+## Steps implemented:
 1. Load CSV data
 2. Data pre-processing
    ![image](https://github.com/deelaaa/Data-Science-Project/assets/129021858/893025ea-4520-47ea-b1e0-495f499877be)![image](https://github.com/deelaaa/Data-Science-Project/assets/129021858/872b9c37-e775-435b-a25b-0ccb3589dce9)
@@ -16,9 +17,11 @@ Steps implemented:
    ![image](https://github.com/deelaaa/Data-Science-Project/assets/129021858/d3d0394f-dd2a-4595-901b-87482cac29dd)
 7. Logistic regression training and prediction
    
-   Result:  Accuracy :  0.872306
+   Result:
+
+      Accuracy :  0.872306
    
-            Precision :  0.872307
+      Precision :  0.872307
    
-            Recall :  0.872306
+      Recall :  0.872306
 
