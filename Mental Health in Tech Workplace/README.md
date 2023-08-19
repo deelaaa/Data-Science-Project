@@ -17,9 +17,9 @@
 1. What should be done by the employer to overcome the issue of not trying to seek mental health treatment among their employees?
 2. What is the role of a co-worker to conquer this problem?
 ## Algorithms
-1. CNN
-2. NB
-3. CNN + NB + MLP
+1. CNN (Accuracy: 81.65%, Precision: 83.62%, Recall: 88.55%, f1: 86.02%)
+2. NB (Accuracy: 77.54%, Precision: 79.84% Recall: 86.55%, f1: 83.06%)
+3. CNN + NB + MLP (Accuracy: 77.54%, Precision: 79.84%, Recall: 86.55%, f1: 83.06%)
 ## Data visualization
 ![image](https://github.com/deelaaa/Data-Science-Project/assets/129021858/8d513cc3-04f2-46dc-85cc-3527f2a3a93a)
 ![image](https://github.com/deelaaa/Data-Science-Project/assets/129021858/533789c8-9a5c-41d2-aa39-de9c95e4096c)
