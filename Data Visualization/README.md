@@ -14,6 +14,12 @@ What are the association between individual background status such as gender, ed
 ![image](https://github.com/deelaaa/Data-Science-Project/assets/129021858/7d27bcdc-a18c-4a29-9099-075c0d65499e)
 ![image](https://github.com/deelaaa/Data-Science-Project/assets/129021858/3bb77d66-2091-4373-8de3-f4c080e8127f)
 ![image](https://github.com/deelaaa/Data-Science-Project/assets/129021858/b0ba1922-0122-4e92-9f1b-2ceff2c15c5b)
+- It can be seen that the dataset is positively skewed as the median is closer to the bottom of the box.
+ There are 12 outliers which represent the rare ages of the developers where we rarely found a developer aged above 48 years old.
+- The min age of developers are 16 years old and the max age of developers are 60 years old.
+- 25% of the respondents are 25 years old
+- 50% of them are 29 years old
+- and 75% are 35 years old
 ![image](https://github.com/deelaaa/Data-Science-Project/assets/129021858/cc28360a-6bf4-4ee2-95b6-d08c00968f66)
 ![image](https://github.com/deelaaa/Data-Science-Project/assets/129021858/b8feaf5f-7cf1-454c-8bac-83799e75d454)
 ![image](https://github.com/deelaaa/Data-Science-Project/assets/129021858/1d99bcc1-6b3d-4a15-ba51-640b983f39a0)
