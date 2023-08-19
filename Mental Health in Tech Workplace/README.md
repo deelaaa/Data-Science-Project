@@ -16,3 +16,21 @@
 ### Prescriptive Analysis
 1. What should be done by the employer to overcome the issue of not trying to seek mental health treatment among their employees?
 2. What is the role of a co-worker to conquer this problem?
+## Algorithms
+1. CNN
+2. NB
+3. CNN + NB + MLP
+## Data visualization
+![image](https://github.com/deelaaa/Data-Science-Project/assets/129021858/8d513cc3-04f2-46dc-85cc-3527f2a3a93a)
+![image](https://github.com/deelaaa/Data-Science-Project/assets/129021858/533789c8-9a5c-41d2-aa39-de9c95e4096c)
+![image](https://github.com/deelaaa/Data-Science-Project/assets/129021858/0970c3ee-f0f1-4712-af32-7dc963f72252)
+![image](https://github.com/deelaaa/Data-Science-Project/assets/129021858/86c26e80-a148-445c-9312-1dc4ca5e4e0c)
+![image](https://github.com/deelaaa/Data-Science-Project/assets/129021858/2a07eb00-824b-45a3-a335-63bf03a2828c)
+![image](https://github.com/deelaaa/Data-Science-Project/assets/129021858/6fde1153-5dce-4c3c-a7f6-d3f7a76da283)
+![image](https://github.com/deelaaa/Data-Science-Project/assets/129021858/a781ce4e-f31e-4b66-aefb-b2d20110b986)
+![image](https://github.com/deelaaa/Data-Science-Project/assets/129021858/d1afc36c-5e61-4f1e-86e5-dacdfdf969d9)
+![image](https://github.com/deelaaa/Data-Science-Project/assets/129021858/871114e6-3013-4a89-bdee-3b4869dd8aa4)
+![image](https://github.com/deelaaa/Data-Science-Project/assets/129021858/80f3b2a7-cee0-4f44-a353-c8422f20e15c)
+
+
+
