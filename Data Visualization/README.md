@@ -35,7 +35,11 @@ What are the association between individual background status such as gender, ed
 - and 75% are 35 years old
 
 *Gender contribute the most in programming community*
+
 ![image](https://github.com/deelaaa/Data-Science-Project/assets/129021858/cc28360a-6bf4-4ee2-95b6-d08c00968f66)
+- From the previous pie chart we can see that most of the developers are man rather than woman with 93.2% and 6.8% respectively.
+- Woman is classify as insufficient representation in programming community.
+- Hence we should encourage more woman to pursue their career as developers by promoting programs such as WomenInTech to create a balance gender in programming community.
 
 *Education level to join programming community*
 ![image](https://github.com/deelaaa/Data-Science-Project/assets/129021858/b8feaf5f-7cf1-454c-8bac-83799e75d454)
@@ -51,6 +55,7 @@ What are the association between individual background status such as gender, ed
 - Logically thinking, those skills can be learned online and there are many materials of IT areas available across the Internet.
 
 *Employment*
+
 ![image](https://github.com/deelaaa/Data-Science-Project/assets/129021858/eb108b03-40b9-4ab5-8e06-1fcbbdefb2f2)
 - The pie chart shows that allof the developers are employed either full-time or part-time
 - Majority of them are employed full-time compared to part-time where 97% of them are successfully employed full-time meanwhile only 3% of them are employed part-time respectively.
