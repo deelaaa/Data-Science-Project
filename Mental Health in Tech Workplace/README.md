@@ -29,10 +29,9 @@
 ![image](https://github.com/deelaaa/Data-Science-Project/assets/129021858/6fde1153-5dce-4c3c-a7f6-d3f7a76da283)
 ![image](https://github.com/deelaaa/Data-Science-Project/assets/129021858/a781ce4e-f31e-4b66-aefb-b2d20110b986)
 ![image](https://github.com/deelaaa/Data-Science-Project/assets/129021858/d1afc36c-5e61-4f1e-86e5-dacdfdf969d9)
-## Conclusion
-From this project, we gain a better understanding of the factors that contribute to mental health issues in the tech industry. Besides, we are able to evaluate the effectiveness of the available mental health support and resources, and predict the mental health of tech employees in the future. The findings of this research could have important implications for improving the mental well-being of tech workers and creating a healthier work environment in the tech industry.
 ![image](https://github.com/deelaaa/Data-Science-Project/assets/129021858/871114e6-3013-4a89-bdee-3b4869dd8aa4)
 ![image](https://github.com/deelaaa/Data-Science-Project/assets/129021858/80f3b2a7-cee0-4f44-a353-c8422f20e15c)
-
+## Conclusion
+From this project, we gain a better understanding of the factors that contribute to mental health issues in the tech industry. Besides, we are able to evaluate the effectiveness of the available mental health support and resources, and predict the mental health of tech employees in the future. The findings of this research could have important implications for improving the mental well-being of tech workers and creating a healthier work environment in the tech industry.
 
 
