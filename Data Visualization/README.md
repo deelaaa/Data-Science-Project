@@ -13,6 +13,7 @@ What are the association between individual background status such as gender, ed
 ## Result and Discussion
 
 *Number of developers by country*
+
 ![image](https://github.com/deelaaa/Data-Science-Project/assets/129021858/7d27bcdc-a18c-4a29-9099-075c0d65499e)
 - There are 131 countries in total however, we are going to analyse only top 20 countries as shown in previous graph.
 - The bar graph shows that there is a huge number of developers coming from United States (US) which the total number of developers from US are 3072.
@@ -21,11 +22,13 @@ What are the association between individual background status such as gender, ed
 - The last 20 country is Turkey with total 87 developers.
 
 *Number of developers by ethnicity*
+
 ![image](https://github.com/deelaaa/Data-Science-Project/assets/129021858/3bb77d66-2091-4373-8de3-f4c080e8127f)
 - Majority of the developers are from white/European descent where there are 6924 of them represent programming community
 - The least number of ethnic joined programming community was Native American, Pacific Islander, or Indigenous Australian where there are only 66 of them which makes them as the underrepresented community in programming
 
 *Developers' age range*
+
 ![image](https://github.com/deelaaa/Data-Science-Project/assets/129021858/b0ba1922-0122-4e92-9f1b-2ceff2c15c5b)
 - It can be seen that the dataset is positively skewed as the median is closer to the bottom of the box.
  There are 12 outliers which represent the rare ages of the developers where we rarely found a developer aged above 48 years old.
@@ -42,12 +45,14 @@ What are the association between individual background status such as gender, ed
 - Hence we should encourage more woman to pursue their career as developers by promoting programs such as WomenInTech to create a balance gender in programming community.
 
 *Education level to join programming community*
+
 ![image](https://github.com/deelaaa/Data-Science-Project/assets/129021858/b8feaf5f-7cf1-454c-8bac-83799e75d454)
 - All of the developers have educational background
 - Majority of the developers pursue their education up untill bachelor's degree where the total number of them are 5625
 - Only 150 of the developers hold profesional degree where it is the least number of educational level took by developers.
 
 *Field of study*
+
 ![image](https://github.com/deelaaa/Data-Science-Project/assets/129021858/1d99bcc1-6b3d-4a15-ba51-640b983f39a0)
 - As expected most of the developers studied in computer science field.
 - However there are also developers came from different area of studies which unrelated to programming such as health science, fine arts, business discipline and etc.
