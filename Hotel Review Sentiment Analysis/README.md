@@ -7,12 +7,12 @@ Steps implemented:
 4. Data sampling
    ![image](https://github.com/deelaaa/Data-Science-Project/assets/129021858/0bfe5f84-785b-4961-94d5-7aa7dfe4464c)
    Since the data is imbalanced, I decided to downsample the majority class to be balanced with the minority class.
-5. Data visualization
+6. Data visualization
    ![image](https://github.com/deelaaa/Data-Science-Project/assets/129021858/b676a8cc-2e2d-4a03-a0ed-82a39807242e)
    <p float="left">
-  <img src=![image](https://github.com/deelaaa/Data-Science-Project/assets/129021858/b676a8cc-2e2d-4a03-a0ed-82a39807242e) width="100" />
-  <img src=![image](https://github.com/deelaaa/Data-Science-Project/assets/129021858/37f3a8d8-637c-47a8-9023-0abb067ef74a) width="100" /> 
-  <img src=![image](https://github.com/deelaaa/Data-Science-Project/assets/129021858/d3d0394f-dd2a-4595-901b-87482cac29dd) width="100" />
-</p>
+  <img src=![image](https://github.com/deelaaa/Data-Science-Project/assets/129021858/b676a8cc-2e2d-4a03-a0ed-82a39807242e) width="500" />
+  <img src=![image](https://github.com/deelaaa/Data-Science-Project/assets/129021858/37f3a8d8-637c-47a8-9023-0abb067ef74a) width="50" /> 
+  <img src=![image](https://github.com/deelaaa/Data-Science-Project/assets/129021858/d3d0394f-dd2a-4595-901b-87482cac29dd) width="50" />
+   </p>
 
 
