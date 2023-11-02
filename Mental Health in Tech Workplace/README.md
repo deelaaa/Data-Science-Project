@@ -35,9 +35,10 @@
 
 ## Results
 | Algorithms | Accuracy | Precision | Recall | F1-score |
-   | CNN | 81.65% | 83.62% | 88.55% | f1: 86.02% |
-   | NB | 77.54% | 79.84% | 86.55% | 83.06% |
-   | CNN + NB + MLP | 77.54% | 79.84% | 86.55% | 83.06% |
+| --- | --- | --- | --- | --- |
+| CNN | 81.65% | 83.62% | 88.55% | f1: 86.02% |
+| NB | 77.54% | 79.84% | 86.55% | 83.06% |
+| CNN + NB + MLP | 77.54% | 79.84% | 86.55% | 83.06% |
    
 ## Conclusion
 From this project, we gain a better understanding of the factors that contribute to mental health issues in the tech industry. Besides, we are able to evaluate the effectiveness of the available mental health support and resources, and predict the mental health of tech employees in the future. The findings of this research could have important implications for improving the mental well-being of tech workers and creating a healthier work environment in the tech industry.
