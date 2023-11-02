@@ -19,7 +19,7 @@ To classify the review either positive, negative or neutral
    
    Result:
 
-   Accuracy | Precision | Recall
---- | --- | ---
-0.872306 | 0.872307 | 0.872306
+   Accuracy | Precision | Recall |
+--- | --- | --- |
+0.872306 | 0.872307 | 0.872306 |
 
