@@ -12,3 +12,9 @@ This study specifically looks into 4 vaccines used namely Pfizer/BioNTech, Sinov
 ## Algorithms
 1. Neural Network
 2. Naiive Bayes
+
+## Results
+Algorithms | Accuracy | Precision | Recall | F1-score |
+--- | --- | --- | --- |--- |
+CNN | 99.0 | 99.0 | 99.2 | 99.1 |
+NB | 75.3 | 66.9 | 66.3 | 65.9 |
