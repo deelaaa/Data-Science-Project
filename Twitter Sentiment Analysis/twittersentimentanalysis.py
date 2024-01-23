@@ -142,10 +142,10 @@ tags.plot(kind='pie', autopct='%1.1f%%', shadow=True, colors = colors,
 plt.title('Distribution of sentiments')
 
 # Authentication
-consumerKey = "Yn7McJf9v1dKST7BtVFT5lg8k"
-consumerSecret = "dXCcfdgTnxWZfherQ5bz9fla6Z7kz0lJg1uXQrcHrscKytRTVT"
-accessToken = "1385606469173661702-LB8uouus2UreliWDv6g9cRymAEBfkp"
-accessTokenSecret = "i3Wi3leyTPjsKd8qzV2HOim97XcugFiUjNvOLLXOneeUc"
+consumerKey = ""
+consumerSecret = ""
+accessToken = ""
+accessTokenSecret = ""
 auth = tweepy.OAuthHandler(consumerKey, consumerSecret)
 auth.set_access_token(accessToken, accessTokenSecret)
 api = tweepy.API(auth)
