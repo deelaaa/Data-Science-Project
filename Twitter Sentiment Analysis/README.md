@@ -11,5 +11,7 @@ Natural Language Processing (NLP) includes the use of Natural Language Toolkit (
 ## Snapshots
 ![image](https://github.com/farah-adilah/Data-Science-Project/assets/129021858/23322799-39cb-47e8-8c17-90df6bccd40d)
 
-![image](https://github.com/farah-adilah/Data-Science-Project/assets/129021858/8f803977-e79c-4fe7-bba4-09877ffdff81)
+![image](https://github.com/farah-adilah/Data-Science-Project/assets/129021858/94babcb2-c160-451a-af4c-a165544d1b72)
+
+![image](https://github.com/farah-adilah/Data-Science-Project/assets/129021858/307d82e3-a94d-4f1c-8b98-d6b6a7b3a563)
 
